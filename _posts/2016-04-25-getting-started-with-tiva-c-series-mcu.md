@@ -5,7 +5,7 @@ date: 2016-04-25 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: false
-comments: false
+comments: true
 ---
 
 Hey I just got this a very powerful Texas Instruments <strong>Tiva C Series TM4C123G</strong> <strong>ARM-Cortex M4F</strong> launchpad to work around RTOS(Real Time Operating Systems). I thought lets gets introduced with this powerful 32-bit ARM Cortex M4F based device having very good online and offline <span style="color:#33cccc;"><a style="color:#33cccc;" href="http://www.ti.com/tool/ek-tm4c123gxl#supportandcommunity">community support</a> </span>for beginner and professional developers  from TI.
@@ -34,7 +34,9 @@ Well there is lot more to talk on this , you guys also can explore about Cortex-
 
 We will now focus on some thing practical things , I mean about Tiva C Series Launchpad and lets understand more about its specifications and pin-outs and some other use cases.
 
-[caption id="attachment_366" align="aligncenter" width="546"]<img class="  wp-image-366 aligncenter" src="https://vksgaikwad3.files.wordpress.com/2016/04/img_20160423_192847335.jpg?w=612" alt="IMG_20160423_192847335" width="546" height="307" /> Tiva C Series ARM Cortex-M4F Launchpad[/caption]
+<!--[caption id="attachment_366" align="aligncenter" width="546"] -->
+<img class="  wp-image-366 aligncenter" src="https://vksgaikwad3.files.wordpress.com/2016/04/img_20160423_192847335.jpg?w=612" alt="IMG_20160423_192847335" width="546" height="307" /> 
+##### Tiva C Series ARM Cortex-M4F Launchpad
 
 The picture shown above is the Tiva C series Launchpad , we will look at its specifications
 <div class="row ten-column no-margin">
@@ -96,7 +98,10 @@ Two general-purpose user switches, a reset switch, power LED, and user-programma
 <h2>Board GPIO Mapping:</h2>
 Lets understand the mapping of GPIOs of MCU on this launchpad. Most of the pins on this board are highly multiplexed as shown in picture below.
 
-[caption id="attachment_377" align="aligncenter" width="621"]<img class="  wp-image-377 aligncenter" src="https://vksgaikwad3.files.wordpress.com/2016/04/tiva_c_launchpad_pinout_001b.jpg" alt="tiva_c_launchpad_pinout_001b" width="621" height="465" /> Pin Mapping[/caption]
+<!-- [caption id="attachment_377" align="aligncenter" width="621"] -->
+<img class="  wp-image-377 aligncenter" src="https://vksgaikwad3.files.wordpress.com/2016/04/tiva_c_launchpad_pinout_001b.jpg" alt="tiva_c_launchpad_pinout_001b" width="621" height="465" /> 
+
+<center>Pin Mapping</center>
 
  
 
