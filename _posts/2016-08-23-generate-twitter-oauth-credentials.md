@@ -2,7 +2,7 @@
 title: Generate Twitter OAuth Credentails
 author: Vikas Gaikwad
 date: 2016-08-23 11:33:00 +0800
-categories: [Blogging, OAuth]
+categories: [Blogging, Tutorial]
 tags: [twitter,oauth]
 math: true
 #image: /assets/img/sample/devices-mockup.png

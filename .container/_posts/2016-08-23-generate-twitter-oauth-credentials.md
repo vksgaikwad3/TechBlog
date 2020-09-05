@@ -2,10 +2,11 @@
 title: Generate Twitter OAuth Credentails
 author: Vikas Gaikwad
 date: 2016-08-23 11:33:00 +0800
-categories: [Blogging, OAuth]
+categories: [Blogging, Tutorial]
 tags: [twitter,oauth]
 math: true
 #image: /assets/img/sample/devices-mockup.png
+comments: true
 ---
 
 <img class="  wp-image-483 aligncenter" src="https://vksgaikwad3.files.wordpress.com/2016/08/twitterblogimg.png" alt="twitterblogimg" width="621" height="339" />

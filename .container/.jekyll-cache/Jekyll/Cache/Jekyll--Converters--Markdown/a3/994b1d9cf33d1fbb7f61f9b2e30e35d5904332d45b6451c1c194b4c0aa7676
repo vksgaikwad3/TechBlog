@@ -1,4 +1,4 @@
-I":
+I"
 <div class="card categories">
     <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_0">
@@ -14,7 +14,7 @@
         
         <span class="text-muted small font-weight-light">
           
-            3
+            2
             categories,
           
             6
@@ -47,18 +47,9 @@
         
         <li class="list-group-item">
           <i class="far fa-folder fa-fw"></i>
-          <a href="/TechTalk/categories/oauth/" class="ml-1 mr-2">OAuth</a>
-          
-          <span class="text-muted small font-weight-light">1
-            post
-          </span>
-        </li>
-        
-        <li class="list-group-item">
-          <i class="far fa-folder fa-fw"></i>
           <a href="/TechTalk/categories/tutorial/" class="ml-1 mr-2">Tutorial</a>
           
-          <span class="text-muted small font-weight-light">4
+          <span class="text-muted small font-weight-light">5
             posts
           </span>
         </li>
