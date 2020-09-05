@@ -4,7 +4,8 @@ author: Vikas Gaikwad
 date: 2016-04-25 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
-pin: true
+pin: false
+comments: false
 ---
 
 Hey I just got this a very powerful Texas Instruments <strong>Tiva C Series TM4C123G</strong> <strong>ARM-Cortex M4F</strong> launchpad to work around RTOS(Real Time Operating Systems). I thought lets gets introduced with this powerful 32-bit ARM Cortex M4F based device having very good online and offline <span style="color:#33cccc;"><a style="color:#33cccc;" href="http://www.ti.com/tool/ek-tm4c123gxl#supportandcommunity">community support</a> </span>for beginner and professional developers  from TI.

@@ -4,6 +4,7 @@ author: Cotes Chung
 date: 2019-08-08 14:10:00 +0800
 categories: [Blogging, Tutorial]
 tags: [writing]
+comments: true
 ---
 
 ## Naming and Path
@@ -109,7 +110,7 @@ Similar to TOC, the [Disqus](https://disqus.com/) comments is loaded by default 
 
 ```yaml
 ---
-comments: false
+comments: true
 ---
 ```
 
