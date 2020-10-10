@@ -1,7 +1,7 @@
 ---
 title: What is Hydrophonics
 author: Vikas Gaikwad
-date: 2020-10-03 13:02:00 +0800
+date: 2020-10-10 20:30:00 +0800
 categories: [Hydroponics, Episodes]
 tags: [hydroponics,soilless farming]
 pin: true
