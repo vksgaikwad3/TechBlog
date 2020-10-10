@@ -119,6 +119,11 @@ defaults:
         -
           label: Posts
           url: /
+  # - 
+  #   scope:
+  #     path: "assets/img/sample"
+  #   values:
+  #     image: true
   -
     scope:
       path: _drafts
