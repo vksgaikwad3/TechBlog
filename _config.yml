@@ -14,10 +14,7 @@ tagline: A Blog by Vikas Gaikwad.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A Tech Blog.
-  # A minimal, portfolio, sidebar,
-  # bootstrap Jekyll theme with responsive web design
-  # and focuses on text presentation.
-
+  
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://vksgaikwad3.github.io/TechTalk/'
 
